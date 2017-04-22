@@ -1,0 +1,2 @@
+github "Swinject/Swinject"  ~> 2.0.0
+github "jakubvano/SwinjectStoryboard" "b41fc65b5451961a03f94ff451a784f270f8d97d"
